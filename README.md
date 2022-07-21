@@ -4,7 +4,7 @@ This repository summarizes the assignments of the course vehicle dynamics planni
 
 ### Assignment 1 & 2 
 
-The first 2 assignments are focused on using the [Paceijka Magic Formula](https://www.sciencedirect.com/topics/engineering/magic-formula#:~:text=The%20Magic%20Formula%20(Pacejka)%20tire,brake%2Fdrive) for fitting raw experimental data and analysizing the dynamic  behavior of the tyres of the vehicle. 
+The first 2 assignments are focused on using the Paceijka Magic Formula for fitting raw experimental data and analysizing the dynamic  behavior of the tyres of the vehicle. 
 
 ### Assignment 3 
 
